@@ -10,6 +10,9 @@ function kissaMaukuu() {
 function koiraHaukkuu() {
   console.log('Hau')
 }
+function koiraIstuu() {
+  console.log('Koira istuu')
+}
 
 function main() {
   kissaIstuu()
