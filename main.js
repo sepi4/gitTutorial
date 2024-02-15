@@ -2,7 +2,6 @@ function kissaIstuu() {
   console.log('Kissa istuu')
 }
 
-
 function kissaMaukuu() {
   console.log('Miau')
 }
@@ -19,6 +18,14 @@ function apinaIstuu() {
   console.log('Apina istuu')
 }
 
+function apinaKiipeaa() {
+  console.log('kiipeää puuhun')
+}
+
+function kanaIstuu() {
+  console.log('Kana istuu')
+}
+
 function main() {
   kissaIstuu()
   kissaMaukuu()
@@ -27,6 +34,7 @@ function main() {
   koiraHaukkuu()
 
   apinaIstuu()
+  apinaKiipeaa()
 }
 
 main()
