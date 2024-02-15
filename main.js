@@ -38,7 +38,6 @@ function hevonenHirnuu() {
   console.log('Hevonen hirnuu')
 }
 
-
 function main() {
   kissaIstuu()
   kissaMaukuu()
