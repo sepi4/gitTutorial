@@ -26,6 +26,10 @@ function kanaIstuu() {
   console.log('Kana istuu')
 }
 
+function kanaKotkottha() {
+  console.log('Kana kotkottaa')
+}
+
 function main() {
   kissaIstuu()
   kissaMaukuu()
