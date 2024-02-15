@@ -22,6 +22,10 @@ function apinaKiipeaa() {
   console.log('kiipeää puuhun')
 }
 
+function kanaIstuu() {
+  console.log('Kana istuu')
+}
+
 function main() {
   kissaIstuu()
   kissaMaukuu()
