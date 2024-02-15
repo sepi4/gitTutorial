@@ -30,6 +30,11 @@ function kanaKotkottha() {
   console.log('Kana kotkottaa')
 }
 
+function hevonenIstuu() {
+  console.log('Hevonen istuu')
+}
+
+
 function main() {
   kissaIstuu()
   kissaMaukuu()
@@ -39,6 +44,11 @@ function main() {
 
   apinaIstuu()
   apinaKiipeaa()
+
+  kanaIstuu()
+  kanaKotkottha()
+  
+  hevonenIstuu() 
 }
 
 main()
