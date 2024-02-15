@@ -34,6 +34,10 @@ function hevonenIstuu() {
   console.log('Hevonen istuu')
 }
 
+function hevonenHirnuu() {
+  console.log('Hevonen hirnuu')
+}
+
 
 function main() {
   kissaIstuu()
@@ -49,6 +53,7 @@ function main() {
   kanaKotkottha()
   
   hevonenIstuu() 
+  hevonenHirnuu()
 }
 
 main()
