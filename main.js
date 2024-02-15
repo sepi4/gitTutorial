@@ -11,10 +11,22 @@ function koiraHaukkuu() {
   console.log('Hau')
 }
 
+function koiraIstuu() {
+  console.log('Koira istuu')
+}
+
+function apinaIstuu() {
+  console.log('Apina istuu')
+}
+
 function main() {
   kissaIstuu()
   kissaMaukuu()
+
+  koiraIstuu()
   koiraHaukkuu()
+
+  apinaIstuu()
 }
 
 main()
